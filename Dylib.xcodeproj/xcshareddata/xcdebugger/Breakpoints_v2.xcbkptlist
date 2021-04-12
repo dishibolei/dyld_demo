@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1147F132-1031-4F18-8AAD-99E4E29675F5"
+   type = "4"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAAD9BBB-F207-43D0-8143-63059340512E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dylib/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "+load"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADECC3F4-0F72-47AB-9253-5BD3E2AF62FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dylib/main.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "35A8884F-7523-420B-A6E7-22E740CD3E36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoaderMachO::instantiateFromFile"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "35A8884F-7523-420B-A6E7-22E740CD3E36 - 820eb363a93c8087"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoaderMachO::instantiateFromFile(char const*, int, unsigned char const*, unsigned long, unsigned long long, unsigned long long, stat const&amp;, ImageLoader::LinkContext const&amp;)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "F5569936-51F6-4475-80A5-29A0655F2C27"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "dyld::_main"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "F5569936-51F6-4475-80A5-29A0655F2C27 - 13d56743671e8b83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dyld::_main(macho_header const*, unsigned long, int, char const**, char const**, char const**, unsigned long*)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "CA5DC38B-06DB-426F-8728-01AF21E99214"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "dyldbootstrap::start"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "CA5DC38B-06DB-426F-8728-01AF21E99214 - 58c05a425d466293"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dyldbootstrap::start(dyld3::MachOLoaded const*, int, char const**, dyld3::MachOLoaded const*, unsigned long*)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "6656B980-556C-4115-9597-64CA010E34F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoader::recursiveBind"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "6656B980-556C-4115-9597-64CA010E34F7 - c0eb1c17c9a4dde5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoader::recursiveBind(ImageLoader::LinkContext const&amp;, bool, bool, ImageLoader const*)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "F9E498AB-80FA-418B-85E1-BFC3623AD0D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoaderMachOCompressed::rebase"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "F9E498AB-80FA-418B-85E1-BFC3623AD0D8 - c7aa0c350eb25b66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoaderMachOCompressed::rebase(ImageLoader::LinkContext const&amp;, unsigned long)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "9C986118-8FA9-4670-BB9B-5C746781E862"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "dyldbootstrap::rebaseDyld"
+            moduleName = "dyld">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "22DA6C63-19DD-43A7-BA3F-551174F22E15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "amfi_check_dyld_policy_self"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "22DA6C63-19DD-43A7-BA3F-551174F22E15 - c060755ad21510d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "amfi_check_dyld_policy_self"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "F21023C4-2206-4411-BB0A-E1D67BDDCE95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "launchWithClosure"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "F21023C4-2206-4411-BB0A-E1D67BDDCE95 - 34aa983d7d9234d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dyld::launchWithClosure(dyld3::closure::LaunchClosure const*, DyldSharedCache const*, dyld3::MachOLoaded const*, unsigned long, int, char const**, char const**, char const**, Diagnostics&amp;, unsigned long*, unsigned long*, bool*, bool*)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "0AA718BB-3DB8-4F43-9742-40F543BDC8B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "dyld3::internalInstall()"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "0AA718BB-3DB8-4F43-9742-40F543BDC8B9 - 1b44042cd5396e30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dyld3::internalInstall()"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "5537131D-FCB7-4B53-930F-7E44B1311B59"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "dyld3::closure::LaunchClosure::buildClosureCachePath"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "5537131D-FCB7-4B53-930F-7E44B1311B59 - 3d1a4bb801dd01cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dyld3::closure::LaunchClosure::buildClosureCachePath(char const*, char const**, bool, char*)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "A7AB37C5-3259-4673-9E03-48F13FB059C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "closureValid"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "A7AB37C5-3259-4673-9E03-48F13FB059C2 - 93f473ba26344955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dyld::closureValid(dyld3::closure::LaunchClosure const*, dyld3::closure::LoadedFileInfo const&amp;, unsigned char const*, bool, char const**)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "AEA3AA3F-076B-4406-AD60-26E2C7D85108"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoaderMachOCompressed::instantiateMainExecutable"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "AEA3AA3F-076B-4406-AD60-26E2C7D85108 - 595854cd777e0472"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoaderMachOCompressed::instantiateMainExecutable(macho_header const*, unsigned long, char const*, unsigned int, unsigned int, ImageLoader::LinkContext const&amp;)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "F88DD119-B7F4-4BCA-A8FF-2870870E2517"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoaderMachO::ImageLoaderMachO"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "F88DD119-B7F4-4BCA-A8FF-2870870E2517 - 8b3e503bbfa9bd7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoaderMachO::ImageLoaderMachO(macho_header const*, char const*, unsigned int, unsigned int*, unsigned int)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "661E3005-AFB0-4069-B091-0D4EBFC8EE99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoaderMachOCompressed::instantiateStart"
+            moduleName = "dyld">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "8498321B-38E9-4AB9-AAC4-BCE60F5FD6B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoaderMachO::parseLoadCmds"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "8498321B-38E9-4AB9-AAC4-BCE60F5FD6B6 - 4ce2c21c7def89af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoaderMachO::parseLoadCmds(ImageLoader::LinkContext const&amp;)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "C740BC22-1208-4370-B583-28FF32E427A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoaderMachOCompressed::rebase"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "C740BC22-1208-4370-B583-28FF32E427A0 - c7aa0c350eb25b66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoaderMachOCompressed::rebase(ImageLoader::LinkContext const&amp;, unsigned long)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "5D9DB1DB-1BE5-4AF7-8130-007DD3FC9B73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "link"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "5D9DB1DB-1BE5-4AF7-8130-007DD3FC9B73 - c61d01ee28d791c2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dyld::link(ImageLoader*, bool, bool, ImageLoader::RPathChain const&amp;, unsigned int)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5D9DB1DB-1BE5-4AF7-8130-007DD3FC9B73 - 768689d257cc0e41"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoader::link(ImageLoader::LinkContext const&amp;, bool, bool, bool, ImageLoader::RPathChain const&amp;, char const*)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "6D8AE0C0-C2C4-49E9-BC2F-9220F4EECCBF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "dyld3::closure::LaunchClosure::buildClosureCachePath"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "6D8AE0C0-C2C4-49E9-BC2F-9220F4EECCBF - 3d1a4bb801dd01cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dyld3::closure::LaunchClosure::buildClosureCachePath(char const*, char const**, bool, char*)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "4B9ECAF1-194B-4D59-A5B4-A8866A959305"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "_objc_init"
+            moduleName = "libobjc.A.dylib">
+            <Locations>
+               <Location
+                  uuid = "4B9ECAF1-194B-4D59-A5B4-A8866A959305 - bbc41dcf801b248f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_objc_init"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "1D4C49C9-C74A-4C5D-A44A-07EFD9983FAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "libSystem_initializer"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "1D4C49C9-C74A-4C5D-A44A-07EFD9983FAD - f3a626557b9cceab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "libSystem_initializer"
+                  moduleName = "libSystem.B.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "881A0143-37C3-443C-A5B0-50EC62E0A22C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "libdispatch_init"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "881A0143-37C3-443C-A5B0-50EC62E0A22C - db099d5028f53670"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "libdispatch_init"
+                  moduleName = "libdispatch.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "EC080AFE-7D84-4D69-826B-E3D7A57047A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoaderMachOCompressed::instantiateFromFile"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "EC080AFE-7D84-4D69-826B-E3D7A57047A1 - 5bc8bcf194f11675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoaderMachOCompressed::instantiateFromFile(char const*, int, unsigned char const*, unsigned long, unsigned long long, unsigned long long, stat const&amp;, unsigned int, unsigned int, linkedit_data_command const*, encryption_info_command const*, ImageLoader::LinkContext const&amp;)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "03617B08-4F36-4A34-B0BF-326C3870BBF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "dyld::load"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "03617B08-4F36-4A34-B0BF-326C3870BBF7 - 89fe5dcaba02ef75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dyld::load(char const*, dyld::LoadContext const&amp;, unsigned int&amp;)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "654B4F95-AA8D-4876-A538-88F85BE7AC83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoader::recursiveLoadLibraries"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "654B4F95-AA8D-4876-A538-88F85BE7AC83 - d62f2998af08dc3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoader::recursiveLoadLibraries(ImageLoader::LinkContext const&amp;, bool, ImageLoader::RPathChain const&amp;, char const*)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "1A2EC9BF-00C1-4C25-852E-C6E3EFD05F35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoader::runInitializers"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "1A2EC9BF-00C1-4C25-852E-C6E3EFD05F35 - e92441e1f84ffca8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoader::runInitializers(ImageLoader::LinkContext const&amp;, ImageLoader::InitializerTimingList&amp;)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "8112DD16-FE8B-45FB-926B-480224406B4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "ImageLoaderMachO::doInitialization"
+            moduleName = "dyld">
+            <Locations>
+               <Location
+                  uuid = "8112DD16-FE8B-45FB-926B-480224406B4D - 3561d69b8544880a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageLoaderMachO::doInitialization(ImageLoader::LinkContext const&amp;)"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
